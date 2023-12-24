@@ -1,0 +1,2 @@
+This is the repository for a course work in subject "Open source software development tools".
+The topic of the course work is "Development of a program for automated collection of system information from a remote computer".
